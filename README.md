@@ -1,5 +1,5 @@
 # 💫 About Me:
-✌ My name is Nicolas, i’m a CS student and Front-End Dev form Chile<br>🔭 I’m currently working as freelance Web Designer<br>🌱 Lately I've been learning NodeJs and IA Tech (Tensorflow) with pyton<br>⚡ Getting better everyday
+✌ My name is Nicolas, i’m a CS student and Front-End Dev form Chile<br>🔭 I’m currently working as freelance Web Designer<br>🌱 Lately I've been learning NodeJs and IA Tech (Tensorflow) with PYTHON<br>⚡ Getting better everyday
 
 
 # 💻 Tech Stack:
