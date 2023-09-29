@@ -11,5 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nkyozkz&theme=gotham&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nkyozkz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nkyozkz&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
