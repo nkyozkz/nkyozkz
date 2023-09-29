@@ -1,5 +1,5 @@
 # 💫 About Me:
-✌ My name is Nicolas, i’m a CS student and Front-End Dev from Chile<br>🔭 I’m currently working as freelance Web Designer<br>🌱 Lately I've been learning NodeJs and Deep Learning Tech (Tensorflow) with Python<br>⚡ Getting better everyday
+✌ My name is Nicolas, i’m a CS student and Front-End Dev from Chile<br>🔭 I’m currently working as freelance Web Designer and Front-End Dev<br>🌱 Lately I've been learning NodeJs and Deep Learning Tech (Tensorflow) with Python<br>⚡ Getting better everyday
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://www.discord.gg/zurkatto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-alvarez-segura-000b9927a/) 
@@ -9,3 +9,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nkyozkz&theme=gotham&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=nkyozkz&icon=0&color=0)](https://visitcount.itsvg.in)
+
